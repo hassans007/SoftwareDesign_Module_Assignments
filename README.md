@@ -1,3 +1,6 @@
+![UseCase-images-0](https://github.com/user-attachments/assets/7150deef-8729-44ed-95d0-445784c3f654)
+
+
 # Online Banking System Use Case Diagram
 
 This document outlines the use cases for the Online Banking System. The system allows customers to access and manage their banking activities through a secure online platform.
